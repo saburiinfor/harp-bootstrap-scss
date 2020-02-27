@@ -1,7 +1,7 @@
 {
-   "name": "polaris",
+   "name": "saburiinfor",
    "version": "1.0.0",
-   "description": "Polaris Agri Genetics",
+   "description": "Soburi Informatics",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "compile-js": "webpack --mode production --progress --colors",
